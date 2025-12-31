@@ -13,4 +13,4 @@ Interested in collaboration.
 
 ## Contact
 
-Please use the email linked to this profile.
+oskar.rowicki@gmail.com
