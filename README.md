@@ -11,4 +11,4 @@ Interested in collaboration.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
-> Systems programming • High-performance C++ • Memory-safe design
+> Systems programming • High-performance C++ • CLI tools
